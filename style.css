@@ -52,3 +52,11 @@ ul{
 	font-weight: 500;
 	letter-spacing: 1px;
 }
+
+.header .contact-info{
+	margin-left: 400px;
+}
+
+.header .contact-info ul{
+	margin-left: 41px;
+}
