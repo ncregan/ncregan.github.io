@@ -26,4 +26,12 @@ ul\{\
 	/* background-image: url(INSERT);\
 	background-size: cover;\
 	background-repeat: no-repeat; */\
+\}\
+\
+.header .navbar\{\
+	width: 100%;\
+	height: 80px;\
+	display: flex;\
+	align-items: center;\
+	padding-top: 20px;\
 \}}
