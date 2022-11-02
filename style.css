@@ -68,6 +68,15 @@ ul{
 
 .header .contact-info ul li a{
 	color: rgb(0, 0, 0);
-	font-size: 15px;
+	font-size: 17px;
 	transition: all .3s;
+}
+
+.header .contact-info ul li a:hover{
+	color: rgb(35, 62, 104);
+}
+
+.header .contact-info ul li a.sep{
+	margin: 0 28px;
+	opacity: .3;
 }
