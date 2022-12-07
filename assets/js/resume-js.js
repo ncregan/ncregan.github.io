@@ -123,7 +123,7 @@ let resumeButton = document.getElementById('resume-button')
 // Html2pdf options
 let opt = {
   margin:       0,
-  filename:     'Pech, Jacob Resume.pdf',
+  filename:     'Nick_Cregan_Resume.pdf',
   image:        { type: 'jpeg', quality: 0.98 },
   html2canvas:  { scale: 4 },
   jsPDF:        { format: 'a4', orientation: 'portrait' }
