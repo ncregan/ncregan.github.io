@@ -1,7 +1,2 @@
-# ncregan.github.io
-
-html2pdf.bundle.min.js
-
-index.html     style.css   main.js
-current-resume.html   resume-style.css    resume-js.js         
+This is a placeholder that allows for viewing of my resume my the wesbite continues development.      
 
