@@ -337,7 +337,7 @@ img{
 }
 
 .home__img{
-  background-image: url("../images/Surf_1_DarkKnight_WEB.JPG");
+  background-image: url("../images/Headshot_Smiling.jpg");
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -347,7 +347,7 @@ img{
 }
 
 .home__img:hover {
-  background-image: url("../images/Headshot_Smiling.jpg");
+  background-image: url("../images/Surf_1_DarkKnight_WEB.JPG");
   width: 130px;
   height: 130px;
   border-radius: 50%;
@@ -523,8 +523,8 @@ img{
 }
 
 .education__studies{
-font-size: var(--small-font-size);
-color: var(--title-color);
+  font-size: var(--small-font-size);
+  color: var(--title-color);
 }
 
 .education__year{
@@ -593,7 +593,7 @@ color: var(--title-color);
 }
 
 /*========== MEDIA QUERIES ==========*/
-  /* For small devices, menu two columns */
+/* For small devices, menu two columns */
 @media screen and (max-width: 600px){
   .nav__list{
     grid-template-columns: repeat(2, 1fr);
