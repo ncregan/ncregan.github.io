@@ -343,7 +343,8 @@ img{
   border-radius: 50%;
   justify-self: center;
   margin-bottom: var(--mb-1);
-  background-size: contain;
+  background-size: cover;
+  background-position: center;
 }
 
 .home__img:hover {
